@@ -26,6 +26,8 @@ public class Myclss {
 		f = a % b;
 		System.out.println("division of a & b : " + f);
 
+		System.out.println("welcome");
+
 	}
 
 }
