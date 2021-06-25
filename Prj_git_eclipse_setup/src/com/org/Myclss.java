@@ -27,6 +27,7 @@ public class Myclss {
 		System.out.println("division of a & b : " + f);
 
 		System.out.println("welcome");
+		System.out.println("user");
 
 	}
 
