@@ -6,8 +6,8 @@ public class Myclss {
 
 		int a = 4;
 		int b = 2;
-
-		int c, e;
+		int g;
+		int c; int e;
 
 		// ********** block 1 start *******************
 		int d, f;
@@ -26,8 +26,8 @@ public class Myclss {
 		f = a % b;
 		System.out.println("division of a & b : " + f);
 
-		System.out.println("welcome");
-		System.out.println("user");
+		System.out.println("welcome user");
+		System.out.println("user is good");  System.out.println("I am dev2"); 
 
 	}
 
