@@ -7,7 +7,9 @@ public class Myclss {
 		int a = 4;
 		int b = 2;
 		int h;
-		int c, i, e;
+		int g;
+		int c, i;
+		int e;
 
 		// ********** block 1 start *******************
 		int d, f;
@@ -26,9 +28,11 @@ public class Myclss {
 		f = a % b;
 		System.out.println("division of a & b : " + f);
 
-		System.out.println("welcome to bhopal");
+		System.out.println("welcome user to bhopal");
 		System.out.println("nice user");
 		System.out.println("nice city");
+		System.out.println("user is good");
+		System.out.println("I am dev2");
 
 	}
 
